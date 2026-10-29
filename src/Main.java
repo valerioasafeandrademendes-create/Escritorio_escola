@@ -24,6 +24,7 @@ public class Main {
         System.out.println("nivel do jogador: " + j1.nome);
 
 
+        System.out.println("teste");
     }
 
 }
